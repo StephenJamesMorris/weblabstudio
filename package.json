@@ -1,5 +1,5 @@
 {
-	"name": "ricoui-saas-template",
+	"name": "web-lab-studio",
 	"type": "module",
 	"version": "1.0.0",
 	"packageManager": "pnpm@9.14.2",
@@ -21,18 +21,18 @@
 		"typescript"
 	],
 	"author": {
-		"name": "RicoUI",
-		"email": "hello@ricoui.com",
-		"url": "https://ricoui.com"
+		"name": "Stephen James Morris",
+		"email": "info@weblabstudio.de",
+		"url": "https://weblabstudio.de"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ricocc/ricoui-saas-template.git"
+		"url": "https://github.com/StephenJamesMorris/weblabstudio.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ricocc/ricoui-saas-template/issues"
+		"url": "https://github.com/StephenJamesMorris/weblabstudio/issues"
 	},
-	"homepage": "https://github.com/ricocc/ricoui-saas-template#readme",
+	"homepage": "https://github.com/StephenJamesMorris",
 	"license": "MIT",
 	"engines": {
 		"node": ">=22.12.0",
