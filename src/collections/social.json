@@ -2,9 +2,9 @@
 	{
         "id": 1,
 		"name": "Github",
-        "username": "ricocc",
+        "username": "StephenJamesMorris",
 		"image": "/assets/social/social-github.jpg",
-		"url": "https://github.com/ricocc/"
+		"url": "https://github.com/StephenJamesMorris/"
 	},
 
 	{
@@ -18,9 +18,9 @@
     {
         "id": 3,
 		"name": "Twitter",
-        "username": "ricouii",
+        "username": "sjm.dev",
 		"image": "/assets/social/social-twitter.jpg",
-		"url": "https://x.com/ricouii"
+		"url": "https://x.com/sjm.dev"
 	},
 
     {
@@ -59,9 +59,9 @@
     {
         "id": 8,
 		"name": "Email",
-        "username": "ricocc",
+        "username": "weblabstudio.de",
 		"image": "/assets/social/social-email.jpg",
-		"url": "mailto:ricocc@qq.com"
+		"url": "mailto:info@weblabstudio.de"
 	}
 
 
